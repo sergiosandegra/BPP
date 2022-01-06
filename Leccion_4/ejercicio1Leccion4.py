@@ -24,3 +24,7 @@ solucion = [max(i) for i in numeros]
 print("El mayor elemento de cada sublista es:", solucion)
 
 # CONCLUSIÓN
+'''
+Gracias al uso del pdb he podido depurar mi codigo y ver porque mi programa no hacía lo que quería.
+He colocado breakpoints en mi programa para comprobar lo que estaba ocurriendo.
+'''

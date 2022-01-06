@@ -18,3 +18,11 @@ def primo(numero):
 lista = [3, 4, 8, 5, 5, 22, 13]
 solucion = list(filter(primo, lista))
 print("Los números primos de la lista dada son:", solucion)
+
+# CONCLUSIÓN
+'''
+He hecho la funcion para saber si un numero es primo o no. Después le meto la lista
+de números y al final me imprime sólo los números primos.
+Gracias a la funcion 'filter' crea una lista de elementos para los cuales una función
+ha devuelto 'True' y me ayuda a implementar un código mas simple y eficiente.
+'''
